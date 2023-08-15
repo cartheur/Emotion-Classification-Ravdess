@@ -1,6 +1,6 @@
 # Emotion-Classification-Ravdess
 
-To use models like this in my preferred computing language https://stackoverflow.com/questions/66710421/how-can-i-use-pytorch-model-in-c
+To use models like this in my preferred computing [language](https://stackoverflow.com/questions/66710421/how-can-i-use-pytorch-model-in-c) 
 
 # The project
 
